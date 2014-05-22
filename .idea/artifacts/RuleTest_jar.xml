@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RuleTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RuleTest_jar</output-path>
+    <root id="archive" name="RuleTest.jar">
+      <element id="module-output" name="RuleTest" />
+    </root>
+  </artifact>
+</component>
